@@ -1,15 +1,15 @@
 # Steganography
 The python code hides some random bitstream into a grayscale image.
 
-The grayscale image<br/>
+The grayscale image<br/><br/>
 ![boat.jpg](/images/boat.png)<br/>
 
-The output image which has a bitstream encrypted into it.<br/>
+The output image which has a bitstream encrypted into it.<br/><br/>
 ![encrypted.jpg](/images/Encrypted.png)<br/>
 
-The output PSNR value<br/>
+The output PSNR value<br/><br/>
 ![output.png](/images/output.PNG)<br/>
 
-##Libraries used<br/>
-Pillow: To read and produce images
-Tkinter: To create GUI
+## Libraries used<br/>
+1. **Pillow**: To read and produce images
+2. **Tkinter**: To create GUI
